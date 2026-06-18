@@ -21,7 +21,7 @@ Projeto desenvolvido durante a graduação em Engenharia de Software com o objet
 
 Aplicar conceitos fundamentais de desenvolvimento web, incluindo formulários, elementos de entrada de dados, estilização com CSS e organização de interfaces para o usuário.
 
-Observação
+## Observação
 
 Projeto desenvolvido para fins de estudo e prática com base em um tutorial educacional.
 
